@@ -575,7 +575,7 @@ Components and native modules.
 * [react-native-select-box ★0](https://github.com/akiran/react-native-select-box) - react native select box
 * [react-native-timeline-theme ★0](https://github.com/tomzaku/react-native-timeline-theme) - Collection of TimeLine theme. This package only use flexbox(without absolute) & FlatList
 * [react-native-app-auth](https://github.com/FormidableLabs/react-native-app-auth) - React Native bridge for AppAuth - a PKCE-compliant SDK for communicating with OAuth2 providers
-* [react-native-coachmasks](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
+* [react-native-coachmasks ★0](https://github.com/TranLuongTuanAnh/react-native-coachmasks) - react-native-coachmark! It helps you easily create Coach Marks to enhance user experience!
 
 ### Navigation
 
